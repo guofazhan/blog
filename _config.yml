@@ -79,3 +79,7 @@ theme: hexo-theme-bubuzou
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+admin:
+  username: Mr.G
+  password_hash: $2a$10$lRhL2d8QsMVCF.mNCkX3feXGQywNo76eoPrANOPJn6kCwYBfljyWy
+  secret: ssds
