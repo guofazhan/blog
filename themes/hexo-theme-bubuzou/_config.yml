@@ -1,9 +1,6 @@
 menu:
     博文: /
     归档: /archives/
-    生活: /categories/live/
-    摄影: /categories/film/
-    关于: /about/
 
 widgets:
 - category
@@ -28,5 +25,5 @@ duoshuo:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2016
+startyear: 2017
 

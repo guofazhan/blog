@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Mr.G-博客
+subtitle: 博客
+description: 学习分享、源码阅读、笔记
 keywords:
-author: John Doe
-language:
+author: Mr.G
+language: zh-cn #语言
 timezone:
 
 # URL
@@ -25,7 +25,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang
+i18n_dir: languages
 skip_render:
 
 # Writing
