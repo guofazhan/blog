@@ -1,7 +1,10 @@
 extends partial/layout
+block container
+    include mixins/post
+    +postList()
 
-.blog 微博
-.github github
-
+block pagination
+    include mixins/paginator
+    +home()
 block copyright
     include partial/copyright
