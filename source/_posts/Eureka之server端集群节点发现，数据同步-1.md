@@ -42,7 +42,7 @@ public class PeerEurekaNodes {
 > 1. peerEurekaNodes 表示集群节点集合
 > 2. peerEurekaNodeUrls 表示集群节点对应的URL集合
 > 3. taskExecutor 执行定时任务的线程池
-
+<!-- more -->
 >同时 PeerEurekaNodes 类提供start 与shutdown方法，接下来主要看start方法的实现
 
 ``` java

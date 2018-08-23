@@ -12,7 +12,7 @@ date: 2018-08-23 17:43:00
 - 注册列表的数据模型
 
 ![image](https://github.com/guofazhan/image/blob/master/eureka%E6%B3%A8%E5%86%8C%E5%88%97%E8%A1%A8%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B.png?raw=true)
-
+<!-- more -->
 **1. Applications**
 > 注册列表，包含注册到当前注册中心上的所有实例信息，每个注册中心在内存中保持一份数据。在Applications中持有Application的队列
 
