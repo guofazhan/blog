@@ -75,6 +75,9 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/ hexo-theme-bubuzou
 theme: hexo-theme-bubuzou
 
+search:
+  path: search.xml
+  field: post
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
